@@ -1,0 +1,47 @@
+table,column,value,count,share_pct
+transactions,transaction_type,Debit,148114,74.057
+transactions,transaction_type,Credit,51886,25.943
+transactions,channel,UPI,109885,54.943
+transactions,channel,Debit Card,22525,11.263
+transactions,channel,Credit Card,17934,8.967
+transactions,channel,ATM,15048,7.524
+transactions,channel,NEFT,11855,5.928
+transactions,channel,IMPS,10468,5.234
+transactions,channel,Net Banking,9041,4.521
+transactions,channel,RTGS,3244,1.622
+transactions,merchant_category,Salary,31214,15.607
+transactions,merchant_category,Groceries,24469,12.234
+transactions,merchant_category,Food,22213,11.107
+transactions,merchant_category,Shopping,18128,9.064
+transactions,merchant_category,Other,13726,6.863
+transactions,merchant_category,Fuel,13501,6.75
+transactions,merchant_category,Utilities,13425,6.713
+transactions,merchant_category,Rent,11673,5.837
+transactions,merchant_category,Travel,10737,5.369
+transactions,merchant_category,Entertainment,8554,4.277
+transactions,merchant_category,Healthcare,7967,3.984
+transactions,merchant_category,Investment,7373,3.687
+transactions,merchant_category,Education,6106,3.053
+transactions,merchant_category,Electronics,5811,2.905
+transactions,merchant_category,Insurance,5103,2.551
+transactions,location,Mumbai,31059,15.529
+transactions,location,Delhi,21142,10.571
+transactions,location,Bengaluru,19119,9.559
+transactions,location,Pune,17781,8.89
+transactions,location,Hyderabad,17385,8.693
+transactions,location,Chennai,16289,8.145
+transactions,location,Ahmedabad,12029,6.014
+transactions,location,Kolkata,11954,5.977
+transactions,location,Jaipur,9027,4.514
+transactions,location,Lucknow,7868,3.934
+transactions,location,Indore,6930,3.465
+transactions,location,Surat,6558,3.279
+transactions,location,Bhopal,5650,2.825
+transactions,location,Nagpur,3808,1.904
+transactions,location,Kochi,3676,1.838
+transactions,location,Chandigarh,3565,1.782
+transactions,location,Vadodara,3243,1.621
+transactions,location,Coimbatore,2917,1.459
+transactions,status,Success,193379,96.689
+transactions,status,Failed,4591,2.296
+transactions,status,Reversed,2030,1.015

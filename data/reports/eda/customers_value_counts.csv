@@ -1,0 +1,30 @@
+table,column,value,count,share_pct
+customers,gender,Male,3139,52.317
+customers,gender,Female,2801,46.683
+customers,gender,Other,60,1.0
+customers,city,Mumbai,893,14.883
+customers,city,Delhi,648,10.8
+customers,city,Bengaluru,614,10.233
+customers,city,Hyderabad,513,8.55
+customers,city,Chennai,474,7.9
+customers,city,Pune,453,7.55
+customers,city,Ahmedabad,363,6.05
+customers,city,Kolkata,362,6.033
+customers,city,Jaipur,275,4.583
+customers,city,Lucknow,259,4.317
+customers,city,Indore,223,3.717
+customers,city,Surat,202,3.367
+customers,city,Bhopal,195,3.25
+customers,city,Nagpur,115,1.917
+customers,city,Vadodara,105,1.75
+customers,city,Coimbatore,105,1.75
+customers,city,Kochi,102,1.7
+customers,city,Chandigarh,99,1.65
+customers,occupation,Salaried Private,2074,34.567
+customers,occupation,Business Owner,896,14.933
+customers,occupation,Self Employed,733,12.217
+customers,occupation,Student,627,10.45
+customers,occupation,Professional,600,10.0
+customers,occupation,Government Employee,477,7.95
+customers,occupation,Retired,343,5.717
+customers,occupation,Homemaker,250,4.167

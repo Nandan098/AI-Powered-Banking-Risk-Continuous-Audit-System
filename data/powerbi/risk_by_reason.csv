@@ -1,0 +1,8 @@
+reason,flagged_transactions,avg_risk_score,high_risk
+model anomaly only,177437,0.11899919695604125,0
+unusual transaction location,10918,0.44697236698293835,222
+amount unusual vs customer baseline,9181,0.4793422236496087,201
+rare channel for customer,1121,0.23730233079209526,6
+new device with unusual amount,1087,0.3798622662097889,8
+high transaction velocity,768,0.6644007595894933,57
+near-duplicate transaction pattern,639,0.5165549110073999,15

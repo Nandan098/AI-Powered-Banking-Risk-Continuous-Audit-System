@@ -1,0 +1,6 @@
+table,rows,columns,file_size_mb,memory_mb,missing_cells,exact_duplicate_rows
+customers,6000,8,0.462,1.784,0,0
+accounts,9451,6,0.457,2.149,0,0
+merchants,4500,5,0.146,1.176,0,0
+customer_devices,7637,5,0.446,1.32,0,0
+transactions,200000,12,19.795,109.12,0,0

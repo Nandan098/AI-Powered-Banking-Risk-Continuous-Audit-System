@@ -1,0 +1,8 @@
+table,column,value,count,share_pct
+accounts,account_type,Savings,5396,57.094
+accounts,account_type,Salary,1827,19.331
+accounts,account_type,Current,1417,14.993
+accounts,account_type,Fixed Deposit,811,8.581
+accounts,status,Active,8717,92.234
+accounts,status,Dormant,450,4.761
+accounts,status,Closed,284,3.005

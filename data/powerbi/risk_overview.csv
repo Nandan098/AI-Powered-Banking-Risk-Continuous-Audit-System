@@ -1,0 +1,2 @@
+total_transactions,total_transaction_value,high_risk_transactions,medium_risk_transactions,low_risk_transactions,open_audit_cases,avg_risk_score,high_risk_value
+200000,1738514081.8400002,247,2961,196792,3208,0.15589649262007138,27328932.910000004

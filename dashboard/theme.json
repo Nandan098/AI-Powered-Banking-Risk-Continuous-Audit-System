@@ -1,0 +1,6 @@
+{
+  "name": "Banking Risk Dashboard",
+  "dataColors": ["#17365D", "#2F75B5", "#70AD47", "#ED7D31", "#A5A5A5", "#4472C4"],
+  "background": "#F7F9FC",
+  "foreground": "#17365D"
+}

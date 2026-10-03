@@ -1,0 +1,2 @@
+# Install in a Python 3.11 Airflow environment.
+apache-airflow>=2.8,<3

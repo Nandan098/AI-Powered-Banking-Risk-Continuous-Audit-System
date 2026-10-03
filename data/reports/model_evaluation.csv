@@ -1,0 +1,2 @@
+evaluation_type,threshold,average_precision,precision,recall,f1,flagged_records,controlled_anomalies
+Isolation Forest top 1.5% anomaly score,0.9426800775814452,0.0672874541242336,0.06233333333333333,0.0656140350877193,0.06393162393162394,3000,2850

@@ -1,0 +1,18 @@
+{
+  "raw_tables": {
+    "customers": 6000,
+    "accounts": 9451,
+    "merchants": 4500,
+    "customer_devices": 7637,
+    "transactions": 200000
+  },
+  "feature_rows": 200000,
+  "high_risk": 247,
+  "medium_risk": 2961,
+  "low_risk": 196792,
+  "audit_cases": 3208,
+  "model_contamination": 0.015,
+  "train_end": "2025-01-01",
+  "high_risk_threshold": 0.75,
+  "medium_risk_threshold": 0.6
+}

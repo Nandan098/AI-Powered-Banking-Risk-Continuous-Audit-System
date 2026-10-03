@@ -1,0 +1,4 @@
+table,column,value,count,share_pct
+customer_devices,device_type,Android,4361,57.104
+customer_devices,device_type,iOS,2151,28.166
+customer_devices,device_type,Web,1125,14.731

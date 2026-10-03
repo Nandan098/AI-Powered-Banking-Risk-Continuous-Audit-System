@@ -1,0 +1,2 @@
+metric,threshold,average_precision,precision,recall,f1
+Combined risk score,0.75,0.07027944027277766,0.10931174089068826,0.009473684210526316,0.01743622860833064

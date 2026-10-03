@@ -1,0 +1,18 @@
+[
+  "log_amount",
+  "amount_robust_z",
+  "amount_to_customer_median",
+  "tx_count_10m",
+  "tx_count_1h",
+  "tx_count_24h",
+  "minutes_since_prev_tx",
+  "location_distance_km",
+  "location_change",
+  "new_device",
+  "duplicate_candidate_2min",
+  "channel_prior_share",
+  "merchant_category_prior_share",
+  "is_weekend",
+  "hour_sin",
+  "hour_cos"
+]
